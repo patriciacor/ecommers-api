@@ -5,7 +5,9 @@
         "cost": 13500,
         "currency": "USD",
         "imgSrc": "img/prod1.jpg",
-        "soldCount": 14
+        "soldCount": 14,
+        "relatedProducts": [2, 4]
+
     },
     {   "id":2,
         "name": "Fiat Way",
@@ -13,7 +15,9 @@
         "cost": 14500,
         "currency": "USD",
         "imgSrc": "img/prod2.jpg",
-        "soldCount": 52
+        "soldCount": 52,
+        "relatedProducts": [1, 4]
+
     },
     {    "id":3,
         "name": "Suzuki Celerio",
@@ -21,7 +25,9 @@
         "cost": 12500,
         "currency": "USD",
         "imgSrc": "img/prod3.jpg",
-        "soldCount": 25
+        "soldCount": 25,
+        "relatedProducts": [1,2, 4]
+
     },
     {   "id":4,
         "name": "Peugeot 208",
@@ -29,6 +35,8 @@
         "cost": 15200,
         "currency": "USD",
         "imgSrc": "img/prod4.jpg",
-        "soldCount": 17
+        "soldCount": 17,
+        "relatedProducts": [1,2]
+
     }
 ]
