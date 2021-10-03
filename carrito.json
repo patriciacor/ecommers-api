@@ -1,0 +1,23 @@
+ [
+      {
+            "name": "Pino de olor para el auto",
+            "count": 2,
+            "unitCost": 100,
+            "currency": "UYU",
+            "src": "img/tree1.jpg"
+        },
+        {
+            "name": "Rack para Tv",
+            "count": 4,
+            "unitCost": 3600,
+            "currency": "UYU",
+            "src": "img/rack.jpg"
+        },
+        {
+            "name": "Juego de Comedor 6 sillas",
+            "count": 2,
+            "unitCost": 10000,
+            "currency": "UYU",
+            "src": "img/comedor.jpg"
+        }
+]
