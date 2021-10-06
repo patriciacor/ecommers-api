@@ -1,23 +1,34 @@
+
  [
-      {
+      {     "id":1,
             "name": "Pino de olor para el auto",
             "count": 2,
             "unitCost": 100,
             "currency": "UYU",
-            "src": "img/tree1.jpg"
+            "src": "img/a.jpg"
         },
-        {
-            "name": "Rack para Tv",
-            "count": 4,
-            "unitCost": 3600,
+        {  "id":2,
+            "name": "Cubre volante",
+            "count": 1,
+            "unitCost": 900,
             "currency": "UYU",
-            "src": "img/rack.jpg"
+            "src": "img/b.jpg"
         },
-        {
-            "name": "Juego de Comedor 6 sillas",
+        {    "id":3,
+            "name": "Parlantes Automovil",
             "count": 2,
-            "unitCost": 10000,
+            "unitCost": 1000,
             "currency": "UYU",
-            "src": "img/comedor.jpg"
+            "src": "img/c.jpg"
+        },
+        {
+        "id":4,
+        "name":"Cubre asientos Peougeot 208",
+        "count":1,
+        "unitCost":2600,
+        "currency":"UYU",
+        "src":"img/d.jpg"
         }
 ]
+
+
